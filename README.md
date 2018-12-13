@@ -2,7 +2,7 @@
 
 # Emergency Animal Finder
 
-A web app to be used during natural disasters to help lost animals get reunited with their owners.<br>
+A web app to be used during natural disasters to help lost animals get reunited with their owners.
 
 <hr>
 [Check out the app](https://eaf.herokuapp.com)
