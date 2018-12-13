@@ -5,7 +5,8 @@
 A web app to be used during natural disasters to help lost animals get reunited with their owners.
 
 <hr>
-[Check out the app](https://eaf.herokuapp.com)
+
+https://eaf.herokuapp.com
 
 
 
