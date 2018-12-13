@@ -5,7 +5,7 @@
 A web app to be used during natural disasters to help lost animals get reunited with their owners.<br>
 
 <hr>
-https://eaf.herokuapp.com/
+[Check out the app](https://eaf.herokuapp.com)
 
 
 
@@ -35,4 +35,4 @@ We would like to be able to click on the map icon and have it go through to the 
 * **Andrea Mele** - *Initial work* - [isaobushi](https://github.com/isaobushi)
 * **Jessie Wang** - *Initial work* - [techworldhello](https://github.com/techworldhello)
 
-[Check out the app](https://eaf.herokuapp.com)
+
